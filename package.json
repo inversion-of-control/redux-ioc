@@ -1,0 +1,24 @@
+{
+  "name": "redux-ioc",
+  "version": "1.0.0",
+  "description": "An IoC enabled Redux application shell",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inversion-of-control/redux-ioc.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "ioc"
+  ],
+  "author": "John Gardiner <jwegardiner@gmail.com> (https://github.com/johngardiner)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inversion-of-control/redux-ioc/issues"
+  },
+  "homepage": "https://github.com/inversion-of-control/redux-ioc#readme"
+}
